@@ -1,0 +1,14 @@
+djoser
+django 
+djangorestframework 
+django-cors-headers
+psycopg2-binary
+djangorestframework-simplejwt
+Faker
+loremipsum
+graphviz
+django-extensions
+psycopg2
+gunicorn
+whitenoise
+lorem-text
